@@ -3,6 +3,7 @@
 Using Market Sector Behaviors to Hedge Portfolios in a Downturn
 
 Jesus Saenz - Utilities and Consumer Staples
+Steve Stark - Materials, Consumer Discretionary & Industrials
 
 Core Messages
 - In a downward market, there are still areas where investors can find hedges and capture gains during the downturn. 
