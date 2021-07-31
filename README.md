@@ -19,9 +19,9 @@ Hypothesis
 Technology, Consumer Staples, Utilities, and Healthcare will be sectors that can survive market downturns and a place where investors can hedge against a major downturn. 
 
 What do we want from the data?
-Market data for the 2008 financial crisis. Oct. 01, 2007, through March 02, 2009.
-Flat market Feb 02, 2015, through March 01, 2016.
-Political period January 01, 2018, through December 2018.
+Market data for the 2008 financial crisis. Jan. 03, 2006, through Dec. 30, 2010.
+Flat market Jan. 02, 2014, through Dec. 29, 2017.
+Political period Jan 03, 2017, through Dec 30, 2019.
 
 Retrieve daily returns from these three periods. 
 
