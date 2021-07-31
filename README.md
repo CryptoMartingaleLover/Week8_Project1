@@ -23,6 +23,6 @@ Market data for the 2008 financial crisis. Jan. 03, 2006, through Dec. 30, 2010.
 Flat market Jan. 02, 2014, through Dec. 29, 2017.
 Political period Jan 03, 2017, through Dec 30, 2019.
 
-Retrieve daily returns from these three periods. 
+Retrieve daily and cumulative returns from these three different periods expressed in visualization format.
 
-We want the yearly returns for a ten-year period beginning January 1st, 2011 until December 31st, 2020.
+We want the yearly returns for a ten-year period beginning January 4, 2010 until December 30, 2020.
